@@ -7,6 +7,7 @@ The To-Do List Application is a simple and interactive task management web appli
 Built with JavaScript, the application demonstrates core web development concepts including DOM manipulation, event handling, dynamic content updates, and modular project development using Webpack.
 
 Features
+
 Add Tasks: Create and add new tasks to your personal task list.
 Task Management: View and manage tasks through an interactive interface.
 Complete Tasks: Mark tasks as completed when they are finished.
@@ -14,6 +15,7 @@ Remove Tasks: Delete individual tasks from the list.
 Clear Completed Tasks: Remove multiple completed tasks at once.
 Interactive Interface: Simple and user-friendly design for efficient task management.
 Responsive Design: Usable across different screen sizes and modern browsers.
+
 Technologies Used
 Frontend: HTML5, CSS3, JavaScript
 Build Tool: Webpack
