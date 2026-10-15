@@ -23,15 +23,25 @@ Interactive Interface: Simple and user-friendly design for efficient task manage
 Responsive Design: Usable across different screen sizes and modern browsers.
 
 Technologies Used
+
 Frontend: HTML5, CSS3, JavaScript
+
 Build Tool: Webpack
+
 Package Manager: npm
+
 Version Control: Git & GitHub
+
 System Requirements
+
 Modern web browser
+
 Node.js and npm
+
 Code editor such as Visual Studio Code
+
 Installation & Setup
+
 1. Clone the repository
 git clone https://github.com/yourusername/to-do-list.git
 cd to-do-list
@@ -47,11 +57,17 @@ For development, you can also use a local development server if configured in th
 
 Usage
 Open the application in your browser.
+
 Enter a task in the task input field.
+
 Add the task to your list.
+
 Mark tasks as completed when finished.
+
 Delete individual tasks when they are no longer needed.
+
 Use the clear option to remove completed tasks.
+
 Contributing
 
 Contributions are welcome!
