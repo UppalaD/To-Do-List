@@ -9,11 +9,17 @@ Built with JavaScript, the application demonstrates core web development concept
 Features
 
 Add Tasks: Create and add new tasks to your personal task list.
+
 Task Management: View and manage tasks through an interactive interface.
+
 Complete Tasks: Mark tasks as completed when they are finished.
+
 Remove Tasks: Delete individual tasks from the list.
+
 Clear Completed Tasks: Remove multiple completed tasks at once.
+
 Interactive Interface: Simple and user-friendly design for efficient task management.
+
 Responsive Design: Usable across different screen sizes and modern browsers.
 
 Technologies Used
