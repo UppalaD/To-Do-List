@@ -91,9 +91,7 @@ License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
-Contact
-
-For questions, suggestions, or collaboration
-
-Email - erandidahanayaka@gmail.com
-Phone - +94 775432426
+## Contact
+For any inquiries or feedback, please contact us at:
+- **Email:** erandidahanayaka@gmail.com
+- **GitHub** https://github.com/UppalaD
